@@ -139,8 +139,8 @@ PGS_CRM/
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/pgs-crm.git
-cd pgs-crm
+git clone https://github.com/ajaytechx/CRM_PGS.git
+cd CRM_PGS
 
 # Create virtual environment
 python -m venv venv
@@ -218,12 +218,18 @@ remarks, created_at, updated_at
 
 ## 👨‍💻 Author
 
-**Pavishna Global Services**  
-Overseas Recruitment Agency  
-Coimbatore / Thoothukudi, Tamil Nadu, India
+**AJAY N**
 
-[![Website](https://img.shields.io/badge/Website-pavishnagroups.com-blue?style=flat-square)](https://pavishnagroups.com)
+*Full Stack Developer | AI/ML Enthusiast*
+
+*Pavishna Global Services, Thoothukudi*
+
+[![GitHub](https://img.shields.io/badge/GitHub-ajaytechx-181717?style=for-the-badge&logo=github)](https://github.com/ajaytechx)
+[![Instagram](https://img.shields.io/badge/Instagram-ajay.techx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajay.techx)
+[![Website](https://img.shields.io/badge/Website-pavishnagroups.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pavishnagroups.com)
 
 ---
+
+### ⭐ Star this repo if you find it useful!
 
 **Made with ❤️ in Tamil Nadu, India**
