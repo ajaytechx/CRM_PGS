@@ -222,7 +222,7 @@ remarks, created_at, updated_at
 
 *Full Stack Developer | AI/ML Enthusiast*
 
-*Pavishna Global Services, Thoothukudi*
+*Pavishna Tech, Thoothukudi*
 
 [![GitHub](https://img.shields.io/badge/GitHub-ajaytechx-181717?style=for-the-badge&logo=github)](https://github.com/ajaytechx)
 [![Instagram](https://img.shields.io/badge/Instagram-ajay.techx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ajay.techx)
